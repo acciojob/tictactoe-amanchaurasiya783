@@ -1,7 +1,7 @@
 //your JS code here. If required.
 // Constants
-const user1 = document.getElementById("player-1");
-const user2 = document.querySelector("#player-2");
+const user1 = document.getElementById("player1");
+const user2 = document.querySelector("#player2");
 const submit = document.querySelector("#submit");
 const form = document.querySelector("#form");
 const gameBoard = document.querySelector("#game-board");
